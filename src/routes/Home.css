@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  margin-left: 150px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin: 20px;
+  padding: 20px;
+}
+
+#GlobalTalk {
+  font-weight: 900;
+}
+
+nav .login-signUp {
+  margin-left: 350px;
+}
+
+#Login {
+  font-weight: 700;
+}
+
+#SignUp {
+  font-weight: 700;
+  color: white;
+  background-color: darkcyan;
+  border-radius: 25px;
+}
+
+main {
+  margin-left: 185px;
+  position: relative;
+}
+
+main ul {
+  list-style: none;
+  display: flex;
+}
+
+#main-p1 {
+  color: darkcyan;
+  font-weight: 700;
+  margin-top: 40px;
+}
+
+#main-p2 {
+  margin-top: 30px;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+#main-p3 {
+  margin-top: 30px;
+}
+
+#main-ul1 {
+  margin-top: 40px;
+}
+
+#main-SignIn {
+  font-weight: 700;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+#main-LearnMore {
+  font-weight: 700;
+  color: darkcyan;
+  background-color: rgba(90, 192, 192, 0.517);
+  padding: 10px;
+  border-radius: 20px;
+}
+
+#main-ul2 {
+  margin-top: 40px;
+}
+
+#main-ul2-li1,
+#main-ul2-li2 {
+  padding: 10px;
+}
+
+main span {
+  font-weight: 900;
+  font-size: 40px;
+}
+
+#bummy1 {
+  position: absolute;
+  right: 300px;
+  top: 150px;
+}

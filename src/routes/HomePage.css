@@ -1,0 +1,178 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  border-bottom: 1px solid gray;
+  background-color: #f6f5f4;
+  width: 100%;
+}
+
+nav ul {
+  margin-left: 150px;
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin: 20px;
+  padding: 0 10px;
+}
+
+main {
+  width: 100%;
+}
+
+#CyptoBummy {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+#Home {
+  font-weight: 700;
+}
+
+nav .userName-signUp {
+  margin-left: 300px;
+}
+
+#userName {
+  font-weight: 700;
+  color: gray;
+}
+
+#SignOut {
+  font-weight: 700;
+  border-radius: 25px;
+}
+
+.main1 {
+  height: 640px;
+  background-color: #f6f5f4;
+}
+
+.main2 {
+  height: 500px;
+  position: relative;
+}
+
+.main3 {
+  height: 400px;
+  background-color: #f6f5f4;
+}
+
+.main4 {
+  height: 500px;
+}
+
+#CryptoBummy {
+  font-weight: 900;
+  font-size: 50px;
+  padding-top: 200px;
+  padding-left: 200px;
+}
+
+#main1_p2 {
+  padding-top: 30px;
+  padding-left: 200px;
+  color: gray;
+}
+
+#bummy1_1 {
+  position: absolute;
+  right: 300px;
+  top: 250px;
+}
+
+.main2,
+.main3,
+.main4 {
+  display: flex;
+}
+
+#img2,
+#img4 {
+  width: 400px;
+  height: 370px;
+  margin-left: 300px;
+  margin-top: 60px;
+}
+
+#main2_text,
+#main4_text {
+  margin-left: 50px;
+  margin-top: 130px;
+}
+
+#main2_p1,
+#main3_p1,
+#main4_p1 {
+  font-size: 40px;
+  font-weight: 900;
+}
+
+#main2_p2,
+#main3_p2,
+#main4_p2 {
+  margin-top: 15px;
+  font-size: 14px;
+  color: gray;
+  font-weight: 700;
+}
+
+#main2_divBox {
+  display: flex;
+}
+
+#main2_div1 {
+  display: flex;
+  margin-top: 15px;
+  width: 70px;
+  height: 60px;
+  background-color: #f2d4dc;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: end;
+  padding: 14px 22px;
+  color: #945069;
+}
+
+#main2_div2 {
+  display: flex;
+  margin-top: 15px;
+  margin-left: 20px;
+  width: 100px;
+  height: 60px;
+  background-color: #c3dce3;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: end;
+  padding: 14px 22px;
+  color: #2b788b;
+}
+
+#main3_text {
+  margin-left: 400px;
+  margin-top: 130px;
+}
+
+#img3 {
+  margin-left: 180px;
+  margin-top: 30px;
+  width: 350px;
+  height: 350px;
+}
+
+#main3_div1,
+#main4_div1 {
+  display: flex;
+  margin-top: 10px;
+  background-color: #c3dce3;
+  border-radius: 30px;
+  color: #2b788b;
+  width: 100px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+}
